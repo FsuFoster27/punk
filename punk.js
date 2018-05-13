@@ -1,5 +1,5 @@
 var punk = ["work", "it", "make", "do", "makes", "us", "harder", "better", "faster", "stronger", "more than",
-                "hour", "our" , "never" , "ever", "after", "work", "over", "is", ",", "\n"];
+                "hour", "our" , "never" , "ever", "before", "work", "over", "is", ",", "\n"];
 var debug = false
 
 function go(...args) {
